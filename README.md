@@ -4,7 +4,7 @@ This script was made to let you host your mspfa or original comic on it's own si
 ## Setup
 Each folder contains all the files necessary to view your adventure when hosted. Download the folders contents and host them on your own site.
 
-`adventure.json` is the file that contains all your adventure data. If you want to host an existing MSPFA adventure simply past in it's adventure object overtop of the template. Else copy the `template.json` file and fill it out with your own adventure data.
+`adventure.json` is the file that contains all your adventure data. If you want to host an existing MSPFA adventure simply past in it's adventure object overtop of the template. Else copy the contents of `template.json` file and fill it out with your own adventure data.
 
 `adventure.json` should have at least these values:
 ```json
