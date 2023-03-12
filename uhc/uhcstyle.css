@@ -1,0 +1,106 @@
+body {
+  background: #5a5a5a;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.navList {
+  width: 950px;
+  height: 17px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  position: relative;
+  
+  font-size: 10px;
+  line-height: 16px;
+  font-family: Arial,Helvetica,sans-serif;
+  font-weight: 700;
+  color: white;
+  margin: auto;
+}
+
+.sep {
+  margin: 0 .3em; 
+}
+
+.navList a:nth-child(n+0):nth-child(-n+1) { color: #fff }
+.navList a:nth-child(n+2):nth-child(-n+4) { color: #29ff4a; }
+.navList a:nth-child(n+5):nth-child(-n+9) { color: #39d5f6; }
+.navList a:nth-child(n+10):nth-child(-n+13) { color: #f7f72a; }
+.navList a:nth-child(n+13) { color: #ffb529; }
+
+.candyCorn { 
+  content: url(./candycorn.gif);
+  margin: 0 9px; 
+}
+
+.pageFrame {
+  background: #c6c6c6;
+  width: 950px;
+  padding-top: 7px;
+  padding-bottom: 23px;
+  margin: 0 auto;
+  flex: 0 1 auto;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.pageContent {
+  background: #fff;
+  max-width: 950px;
+  width: 650px;
+  display: flex;
+  flex: 0 1 auto;
+  align-items: center;
+  flex-flow: column;
+}
+
+.footer {
+  height: 110px;
+  box-sizing: border-box;
+  padding-left: 12px;
+  padding-right: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+#command {
+  text-align: center;
+  line-height: 1.1;
+  font-size: 32px;
+  padding: 15px 0;
+  max-width: 590px;
+}
+
+#content {
+  padding: 0 25px;
+  line-height: 1.15;
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  text-align: center;
+}
+
+#content img {
+  margin: 0 -25px;
+}
+
+#links {
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: x-large;
+  font-weight: 400;
+  margin: 0 25px 30px;
+}
+
+#links > span > div::before {
+  content: "> "
+}
+
+.bottomLinks {
+  font-size: 10px;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  padding: 0 25px 10px;
+}

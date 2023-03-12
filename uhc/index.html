@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MSPFA viewer</title>
+
+  <link id="favicon" rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="./uhcstyle.css">
+  <script src="../mspfaViewer.js"></script>
+  <style id="adventureStyle"></style>
+</head>
+<body>
+  <div class="main">
+    <div class="pageBody">
+      <nav class="navBanner customNavBanner pixelated">
+        <div class="navList">
+          <a href="https://mspfa.com/">MSPFA</a> 
+          <div class="candyCorn"></div>
+          <!-- <a href="/help">HELP</a> 
+          <div class="candyCorn"></div>
+          <a href="/map">MAP</a> 
+          <div class="sep">|</div> -->
+          <a href="?p=log">LOG</a> 
+          <!-- <div class="sep">|</div>
+          <a href="/search">SEARCH</a> 
+          <div class="candyCorn"></div>
+          <a href="/news">NEWS</a> 
+          <div class="sep">|</div>
+          <a href="/music">MUSIC</a> 
+          <div class="candyCorn"></div>
+          <a href="/evenmore">MORE</a> 
+          <div class="sep">|</div>
+          <a href="/settings">SETTINGS</a> 
+          <div class="sep">|</div>
+          <a href="/credits">CREDITS</a>  -->
+        </div>
+      </nav>
+      <div class="pageFrame">
+        <div class="pageContent">
+          <div class="story-text">
+            <div id="command"></div>
+            <div id="content"></div>
+            <div id="links"></div>
+
+            <div class="bottomLinks"> 
+              <a id="startover" href="?p=1">Start Over</a> 
+              <span id="gobackbar"> | </span> 
+              <a id="goback">Go Back</a> 
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="footer " style="width: 950px;">
+        <a href="/"><img src="./mspalogo_mspa.png" alt="" draggable="false" class="bannerImage left"></a>
+        <a href="/"><img src="./mspalogo_mspa.png" alt="" draggable="false" class="bannerImage right"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="prelaod" style="display: none;"></div>
+</body>
+</html>

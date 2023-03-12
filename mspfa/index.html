@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MSPFA viewer</title>
+
+  <link id="favicon" rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="./mspfastyle.css">
+  <script src="../mspfaViewer.js"></script>
+  <style id="adventureStyle"></style>
+</head>
+<body cz-shortcut-listen="true" class="mspfa ">
+    
+    <div id="main">
+        <header>
+            <div class="umcontainer">
+                <a href="/">
+                    <div class="mspfalogo"></div>
+                </a>
+            </div>
+            <nav>
+                <a href="https://mspfa.com/" style="color: #ffffff;">MSPFA</a>
+
+                <div class="heart"></div>
+
+                <!-- <a href="/help" style="color: #76d8ff;">Help</a>
+
+                <div class="heart"></div> -->
+
+                <!-- <a href="/map" style="color: #2cff4b;">UHC Map</a> <span class="vbar">|</span>  -->
+                <a href="?p=log" id="log" style="color: #2cff4b;">Log</a> 
+                <!-- <span class="vbar">|</span> -->
+                <!-- <a href="/search" style="color: #2cff4b;">UHC Search</a> -->
+
+                <!-- <div class="heart"></div>
+
+                <a href="/news" style="color: #fffa36;">News</a> <span class="vbar">|</span>
+                <a href="/music" style="color: #fffa36;">music</a>
+
+                <div class="heart"></div>
+
+                <a href="/evenmore" style="color: #ffbc3e;">More</a> <span class="vbar">|</span> <a href="/settings" style="color: #ffbc3e;">Settings</a> <span class="vbar">|</span>
+                <a href="/credits" style="color: #ffbc3e;">Credits</a> -->
+            </nav>
+        </header>
+
+        <div id="container">
+            <div id="slide">
+                <div id="command"></div>
+                <div id="content"></div>
+                <div id="foot">
+                    <div id="links"></div>
+                    <br />
+                    <br />
+                    <span id="prevlinks">
+                        <span class="footlinks">
+                            <a id="startover" href="?p=1">Start Over</a>
+                            <span id="gobackbar"> | </span> <a id="goback">Go Back</a>
+                        </span>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span>
+                    <!-- <span id="gamelinks" style="">
+                        <span class="footlinks"> <a id="savegame">Save Game</a> | <a id="loadgame">Load Game</a> | <a id="deletegame">Delete Game Data</a> </span>
+                    </span> -->
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="umcontainer">
+                <div class="mspfalogo"></div>
+            </div>
+            <div id="details" style="padding-top: 6px;"><b>MSPFA viewer made by FlaringK 2023</b></div>
+        </footer>
+    </div>
+    <div id="prelaod" style="display: none;"></div>
+</body>
+</html>

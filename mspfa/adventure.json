@@ -1,0 +1,801 @@
+{
+	"i":49229,
+	"d":1671500871647,
+	"u":1674075046696,
+	"c":"101543937334785783814",
+	"e":[
+		"101543937334785783814"
+	],
+	"n":"sburb.EXE",
+	"r":"A cautionary tale for those who pick up their video games at garage sales.\n\nContains jumpscares.",
+	"h":2,
+	"t":[
+		"horror",
+		"jumpscares",
+		"suggestions",
+		"fankids",
+		"sburb"
+	],
+	"a":"petpeta",
+	"w":"https://twitter.com/ghouI_friend",
+	"o":"https://file.garden/YzAOR9X23DJlLPFG/gfkjdgdf.gif",
+	"q":"",
+	"x":"",
+	"b":1,
+	"y":"@import url(\"/css/?s=41577\");\n@import url(\"/css/?s=42495\");\n\n@mspfa audio 23 https://file.garden/YzAOR9X23DJlLPFG/Psycho%20-%20Sound%20Effect.mp3;\n\n@mspfa audio 31 https://file.garden/YzAOR9X23DJlLPFG/Mountain%20Lion%20Royalty%20Free%20Sound%20Effects%20(HD)%20Nature%20Sounds%20FX.mp3;\n\n.p1 #infobox tr:last-of-type td::after {\n  content: \"\";\n}",
+	"j":"MSPFA.import(\"https://miroware.io/js/mspfa/audio.js\");",
+	"v":"MSPFA.import(\"https://miroware.io/js/mspfa/audio.js\");",
+	"f":[
+		"106426441828173715828",
+		"101543937334785783814",
+		"101503286400034260846",
+		"118380344289168947930",
+		"105738410283385250575",
+		"118183836342683626220",
+		"100510907953430945217",
+		"111925071594768717827",
+		"102502596923287773337"
+	],
+	"g":[
+		"104941838528613617003",
+		"109502170241941652307",
+		"101608344648260722576",
+		"117198099330538101884",
+		"102562883001113679391",
+		"112211955370529222186",
+		"116373027373631252730",
+		"109928808708669977691",
+		"101462798991677641478",
+		"111277795857819804858",
+		"109253079322730285623",
+		"110166798874555087611",
+		"105187389236467774785",
+		"111104192546690822352",
+		"107238033717659364897",
+		"112893830459851386123",
+		"100993603944775972728",
+		"113358401572975401533",
+		"114747328798434264828",
+		"111810615557659451481",
+		"112925149286254693093",
+		"101427803853066844951",
+		"103964552414986145646",
+		"112798067182125134185",
+		"114053422678619145931",
+		"102831861538279925181",
+		"115685880379047231320",
+		"100851605089543247984",
+		"106920998121125162005",
+		"102687115547131816529",
+		"101032310413779404418",
+		"103011523302933020685",
+		"102217235799589670872",
+		"102149116093516232590",
+		"115691333517300671883",
+		"101132825252582532332",
+		"112969500518043661921",
+		"108896424844158889184",
+		"102559512880684032145",
+		"104503544306498451891",
+		"111586509346988242357",
+		"117909700560466206367",
+		"111519810059033518192",
+		"117330414582770818782",
+		"101364841632440990470",
+		"112098017590575146387",
+		"105920060227582263442",
+		"107610103362343003791",
+		"110179415340227025381",
+		"100282984986806992082",
+		"108328710045428859384",
+		"109857681201935939005",
+		"100203030943458628247",
+		"106608786151297780360",
+		"109109789915038273631",
+		"116589185525705545069",
+		"111405799743020450170",
+		"116996202945226564561",
+		"114072334887285563902",
+		"112597965460899802384",
+		"107242845310760020532",
+		"113260074173332981530",
+		"112576831818061589001",
+		"116322128555291789689",
+		"100855018780708322446",
+		"113974893563075866653",
+		"103649271348873847179",
+		"106181897025095778111",
+		"115098093217194556855",
+		"109290067704271661507",
+		"115560028645982103631",
+		"103376776396138703649",
+		"105208060291258151705",
+		"117970901756534624808",
+		"110140487976098347018",
+		"106165393811844571989",
+		"110088022335073999378",
+		"112485189250158549887",
+		"111505424194906818885",
+		"117026152391147212232",
+		"107391709566493205530",
+		"101039633496059980064",
+		"101539234579994263872",
+		"111666933604070100462",
+		"102397954556585792914",
+		"109738514297610048856",
+		"100040456167817944272",
+		"103758792507256833679",
+		"116213642826057266227",
+		"117725740249149108145",
+		"115524885879647017004",
+		"117463906347717387576",
+		"110877978140010405889",
+		"114271720619249472840",
+		"114119777991789485681",
+		"111087674586308643409",
+		"107993172597094501636",
+		"100632733429359052542",
+		"105593314802778256708",
+		"117390933707145246539",
+		"103246320345000290721",
+		"115272817578977574675",
+		"113520140236199518348",
+		"109453986733152744846",
+		"116903189573810605899",
+		"111894837384745633708",
+		"109188433291520309644",
+		"113799083777911548704",
+		"117713476396557044559",
+		"117960370443742074661",
+		"111755133866602448357",
+		"116177628972050422708",
+		"103821557205729485031",
+		"113297607765533869087",
+		"115592972290188955184",
+		"104527055638012524855",
+		"112710292966646713417",
+		"113072069786981027283",
+		"107854496055359536102",
+		"113205779496020560037",
+		"110713029979845317954",
+		"113005200671642916136",
+		"111210439236889927771",
+		"114413418099330460615",
+		"105608650063149571082",
+		"105386979098458084428",
+		"100016480879691179204",
+		"106998242667416300464",
+		"105882141054375118001",
+		"111413944497917934020",
+		"111035360465384656481",
+		"104718292606127590690",
+		"100434209521531818004",
+		"101039180753307143967",
+		"106586413273480242487",
+		"102253817530058465519",
+		"105671622105675624499",
+		"105556901695871844927",
+		"117988190415326431763",
+		"105290244858745230003",
+		"118011781437013040898",
+		"115972728115406040600",
+		"112863902985869978011",
+		"117916980501989879383",
+		"112293178260552005459",
+		"108362555119221698002",
+		"106503923766264216754",
+		"115124752972356493188",
+		"111993501581527250969",
+		"115643268283597707277",
+		"100846605488216061530",
+		"100051374971283588953",
+		"113779929943082875897",
+		"115455901468419151607",
+		"100485418509712131819",
+		"117165858322452261311",
+		"101806135663501608215"
+	],
+	"m":"===>",
+	"p":[
+		{
+			"d":1671518387574,
+			"c":"sburb.EXE",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/she.gif[/img]\n\n'Tis unseasonably spooky outside, on the 21st of December, 2012. You are going to die today. FOREVER.\n\nBut first, of course, you are going to have LOADS OF FUN! And pick up a name along the way, for you are thirteen years of age.\n\nSo then, what'll it be?",
+			"n":[
+				2
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"Enter name.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/namet.gif[/img]\n\nA... ABBY? ABBY is fine, you guess. You can think of a serial killer moniker or two for it. STABBY ABBY, perhaps. Yeah, you can make this work.\n",
+			"n":[
+				3
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"Abby: The room. Examine it.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/examine%20room.gif[/img]\n\nCheck it out! \n\nYour name is ABBY, and your entire personality can be approximated from a cursory glance at this room. Pourveyor of ALL THINGS HORROR. ANTIQUARIAN of the WEIRD and the MACABRE. Not bugged by BUGS, and a major sweet tooth. Your favorite movies are the ones where A BUNCH OF ANNOYING TEENAGERS GET KILLED BY A COOL GUY IN A COSTUME.\n\nYou'd like to be a HORROR FILMMAKER, and often doodle ideas for costumes, special effects, and makeup for your sprawling catalog of fictional murderous sociopaths. Unfortuanately for everyone who has ever enjoyed a movie, your POST-IRONIC ENJOYMENT OF B-HORROR FLICKS would bring absolutely nothing of artistic merit to the genre, if not actively set it back decades. But so long as your audience (you) are happy, then so are you (you.)\n\nSo, Horrorshow, what's on the agenda?",
+			"n":[
+				4
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"Abby: Open the chest of horrors!",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/shrine.gif[/img]\n\nOh, you mean this? This is your MIMIC CHEST! Or, a MIMIC MIMIC CHEST, you guess, seeing how it is not a real thing.\n\nThis is where you keep your GHOSTFACE SHRINE, as well as your ARSENAL OF DASTARDLY SEASONAL MISCHIEF. It's there, in the dark fathoms of the crate. The deep, dark, scary depths where no light penetrates.",
+			"n":[
+				5
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/danger.gif[/img]\n\nYou just. Gotta reach in there and...",
+			"n":[
+				6
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/DEATH.gif[/img]\n\nYOU DIED.\n\nGAME OVER.",
+			"n":[
+				7
+			]
+		},
+		{
+			"d":1671554558064,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/punkt.gif[/img]\n\nPUNKED! A-hee-hee! It's just your HYPER-REALISTIC BLOOD CAPSULES! Should've seen the look on your face! \n\nUgh, god, that shit's so fucking nasty. Now you need to change. Way to go, mimic chow.",
+			"n":[
+				8
+			]
+		},
+		{
+			"d":1671554695462,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburb.EXE/peepsie.png[/img]\n\nConveniently, your MIMIC MIMIC is where you keep your SPARE CLOTHES. You also have your FAKE BLOODY ARMS, your UNENCHANTED VOODOO DOLL, and of course, your SEWING SUPPLIES. No self-respecting COSTUMESMITH goes out on ALL HALLOW'S EVE without an outfit of their own making.\n\nOh, and there's also more of that hyper-realistic blood, in case you need to give someone a heart attack in a pinch.",
+			"n":[
+				9
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"Abby: Allocate blood capsules to the strife specibus for quick comedic action.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ksfjgdfgd.gif[/img]\n\nYou figure that it'd be awesome to become some kind of gore-slinging psycho and attempt allocating your HYPER-REALISTIC BLOOD to your STRIFE DECK, but your BABY'S FIRST MODUS deems the capsule a CHOKING HAZARD, safely ejecting it back out!\n\nStupid lousy convenient inventory system. Can't even weaponize the damn thing. THANKS FOR NOTHING.",
+			"n":[
+				10
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"Abby: Bite down on the blood capsules.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ewww.gif[/img]\n\nDespite your modus' advice to the contrary, you put the blood capsules in your mouth and promptly choke on them.\n\nAs the poisonous substance courses through your veins, you realize that you have died exactly the way you lived: full of FEAR.",
+			"n":[
+				11
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/munch.png[/img]\n\nWait, what? FAKE BLOOD is safe to consume, and tastes basically like CHOCOLATE SYRUP?\n\nHuh! Guess that's snacks for the next Halloween get-together figured out!",
+			"n":[
+				12
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"Abby :Throw doll across the room to send whoever it's voodoing flying.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ackchually.gif[/img]\n\nUm, ACTUALLY? You've clearly said that the doll is currently UNENCHANTED. You'd have to ENCHANT it before doing any kind of voodooing, like with a piece of a victim's hair or a fingernail or something. Until then, it is just a novelty PIN CUSHION - which to be fair to it, is what you'd gotten it for.\n\nIt's so obvious to anyone who's seen a single ELEVATED HORROR VOODOOPUNK flick! Here's an idea: DEVELOP SOME READING COMPREHENSION, ASSHOLE.",
+			"n":[
+				13
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/barclay%20throw.gif[/img]\n\nYou throw the doll anyway, out of sheer disgust for the ignorance displayed. NOBODY disrespects your kino.",
+			"n":[
+				14
+			]
+		},
+		{
+			"d":1671609512404,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/barclay%20land.gif[/img]\n\nThe doll makes little sound. You imagine the impact would be a lot more satisfyingly violent if the thing was filled with some sort of liquid, like milk. Or better yet, BLOOD.",
+			"n":[
+				15
+			]
+		},
+		{
+			"d":1671609685447,
+			"c":"Abby: Do a flip.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/accomplished.gif[/img]\n\nYou fail spectacularly. Despite that, the FEAT RECEPTACLE rears its head, rewarding your efforts with a new STAR on your BANNER OF HUBRIS, and a gluttonous stack of BOONDOLLARS. Do you have what it takes to collect all of the FEATS?\n\nYou have no idea what the fuck any of that meant.",
+			"n":[
+				16
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: High-five Mr. Skeleton.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/slap.gif[/img]\n\nYou march up to OL' SKEL and give him a vicious handslap. [url=https://mspfa.com/?s=36288&p=73]You've left him hanging long enough.[/url]",
+			"n":[
+				17
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: Examine arachnid pest.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/spooder.gif[/img]\n\nHey, watch the language, Mr! This ain't no pest! This is MARQUISE SPINNERETTE, your roommate! She's moved into your place last week, and you've been the best of friends since.\n\nIt is the cold season, and she's probably looking for a place to spin her web and lay her eggs. SO. CUTE!",
+			"n":[
+				18
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: Examine object under bed.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/batbatbat.gif[/img]\n\nAnd that would be your BASEBALL BAT. You sleep with it under your bed in case the Marquise ever turns on you.\n\nYou're not particularly sporty or anything. You never saw the appeal of watching sweaty men chuck a ball around, let alone joining them.",
+			"n":[
+				19
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: Check for monsters under bed.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/whom.png[/img]\n\nGreat call. This is one of the paramount rules of horror, alongside never going into the woods, investigating strange noises, or engaging in pre-marital sex.\n\nLet's take a look.",
+			"n":[
+				20
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/under%20bed.png[/img]\n\nThankfully, it's just the USUAL CREW OF FREAKS hanging out down here. Your POP has given you many tacky, cutesy, GIRLY plushies throughout the various birthdays and Christmases you have lived/survived. Each one of them you have refashioned into these awesome FRANKENTOYS!\n\nExcept for the SQUIDDLE. You liked the SQUIDDLE as is.\n\nOh, there's also your private reading material, but we will not be mentioning this ever again for the foreseeable duration of this narrative.",
+			"n":[
+				21
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: Ignore the stalker outside the window.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/holp.gif[/img]\n\nIgnore the WHAT? Th-there is no STALKER! Oh, god, this is a trap, isn't it? You're going to investigate, and you're gonna be ambushed, and then shanked thirty times by a guy in a GHOSTFACE mask for having bad taste in movies.\n\nYou know better. You SHOULD know better.\n\nBut the window.\n\nIt beckons.",
+			"n":[
+				22
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/CLIMB.gif[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/homeee.png[/img]\n\nThere's nothing. See? SEE? The noise was just the train passing by your house! There is no killer on your porch. You are safe.\n\nUnless he is already inside.\n\nOh God. ",
+			"n":[
+				23
+			]
+		},
+		{
+			"d":1671652105486,
+			"c":"Abby: Wolf!",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/AAAAAAAAAAAAAAAAAAAAAAAA.gif[/img]\n\n\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!",
+			"n":[
+				24
+			]
+		},
+		{
+			"d":1671731753928,
+			"c":"Abby: use baseball bat to wack the treacherous wolf.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/NIGHTMARE%20FUEL.gif[/img]\n\nGET DOWN FROM THERE YOU BIG JERK! COME AND FACE YOUR UNDOING!\n\nYou can't believe that actually got you. The arrow on your NIGHTMARE FUEL GAUGE ticks ever so slightly upwards.",
+			"n":[
+				25
+			]
+		},
+		{
+			"d":1671731753928,
+			"c":"Abby: Pick those candy corns off the floor, become the Candy Corn Vampire.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/thunk.png[/img]\n\nYou briefly contemplate becoming a CANDY CORN VAMPIRE al la Problem Sleuth from the hit webcomic Problem Sleuth, and its sequel, Midnight Crew. That would be a pretty good way of calming yourself down after that nasty freakout! Regrettably, we are long past pumpkin carving season, and there is nothing to carve SCHEMA PUMPKINS with on hand.\n\nPerhaps another time.",
+			"n":[
+				26
+			]
+		},
+		{
+			"d":1671731753928,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/text.gif[/img]\n\nSuddenly your PC comes alive, the loud notification noise almost pouring more FRIGHT GAS down your FUEL TANK OF TREPIDATION.\n\nOne of your buddies must be feeling chatty!",
+			"n":[
+				27
+			]
+		},
+		{
+			"d":1671731753928,
+			"c":"Abby: Boogie down.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/boogie.gif[/img]\n\nLet's get online.",
+			"n":[
+				28
+			]
+		},
+		{
+			"d":1671731753928,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/bestie.gif[/img]\n\nYou quickly stab the PESTERCHUM icon. Seems like your BESTIE is trying to reach you! You wonder what's on her mind?",
+			"n":[
+				29
+			]
+		},
+		{
+			"d":1671821542888,
+			"c":"Abby: Discover what's on her mind.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/texting.gif[/img]\n\n[spoiler open=\"Show Pesterlog\" close=\"Hide Pesterlog\"]\n\n-- [color=#2eb8ae]pedigreeAlicorns[/color] [[color=#2eb8ae]PA[/color]] began pestering [color=#ff5900]screamingBanshee[/color] [[color=#ff5900]SB[/color]] --\n\n[color=#2eb8ae]PA: abigaaaaaaaail.[/color]\n[color=#2eb8ae]PA: abigail, darling, you will not BELIEVE the events i bore witness to![/color]\n[color=#2eb8ae]PA: you are literally going to scream when i tell you. are you ready for it?[/color]\n[color=#2eb8ae]PA: ???[/color]\n[color=#2eb8ae]PA: abigail?[/color]\n[color=#ff5900]SB: Its ABBY!!!!![/color]\n[color=#ff5900]SB: Stabby Abby, actually[/color]\n[color=#ff5900]SB: And anyway who caaaares teen drama is for twerps[/color]\n[color=#2eb8ae]PA: stabigail then. listen.[/color]\n[color=#ff5900]SB: I am going to Stabigail you I know where you live[/color]\n[color=#2eb8ae]PA: :P[/color]\n[color=#2eb8ae]PA: SO[/color]\n[color=#2eb8ae]PA: abby[/color]\n[color=#2eb8ae]PA: im in this memo, yes? with NC and PR.[/color]\n[color=#ff5900]SB: Huh wait what when was that[/color]\n[color=#ff5900]SB: And why wasn't I invited?!?![/color]\n[color=#2eb8ae]PA: oh, honey, do not worry your pretty little head over it. the memo was stupendously shit. not remotely worth the time of someone of my standing.[/color]\n[color=#ff5900]SB: GEE THANKS![/color]\n[color=#ff5900]SB: At leat youre giving me the highlights???[/color]\n[color=#2eb8ae]PA: thats the spirit. :) [/color]\n[color=#2eb8ae]PA: so im blessing this memo with my presence, and i step out for a second...~[/color]\n[color=#ff5900]SB: And when you get back PR is hitting on NC yes I know how these go[/color]\n[color=#2eb8ae]PA: i.[/color]\n[color=#2eb8ae]PA: in retrospect that WAS a tad predictable.[/color]\n[color=#2eb8ae]PA: but still! the tea is piping hot! and NC was RE-CI-PRO-CA-TING!~[/color]\n[color=#ff5900]SB: So?? NC was just being nice[/color]\n[color=#ff5900]SB: AGH COME ON youve got me gossiping now too! We really need to cut that out were like [/color]\n[color=#ff5900]SB: Being really shallow and cuntish rn[/color]\n[color=#ff5900]SB: Hey look wanna see this evil Squiddles thing im writing[/color]\n[color=#2eb8ae]PA: you dont honestly think im shallow. :([/color]\n[color=#2eb8ae]PA: regardless, that is hardly what is important right now.[/color]\n[color=#2eb8ae]PA: have you received any... mail of late?[/color]\n[color=#ff5900]SB: ..?[/color]\n[color=#2eb8ae]PA: any[/color]\n[color=#2eb8ae]PA: *waggles brows at you mischievously*[/color]\n[color=#2eb8ae]PA: packages?[/color]\n[color=#ff5900]SB: uh[/color]\n[color=#ff5900]SB: OH[/color]\n[color=#ff5900]SB: OH YOU FUCKER[/color]\n[color=#ff5900]SB: YOURE MY SECRET SANTA?!??[/color]\n[color=#2eb8ae]PA: :DDDD !!![/color]\n[color=#ff5900]SB: DAAAAMN[/color]\n[color=#ff5900]SB: Ok I definitely got the package earlier! Its marinating in my cellar cause it looked shifty[/color]\n[color=#ff5900]SB: What did you get me anyway? (Please say shrunken heads)[/color]\n[color=#2eb8ae]PA: oh, just a teensy something i picked up at a garage sale.~[/color]\n[color=#2eb8ae]PA: it gave me the vibes of being hexed 666 times over so i thought it was right up your alley.[/color]\n[color=#2eb8ae]PA: and some snacks as well! arent i amazing? <3[/color]\n[color=#ff5900]SB: Its 100% shit that was too sweet for you to eat[/color]\n[color=#2eb8ae]PA: yep. :)[/color]\n[color=#2eb8ae]PA: you know how it goes, darling. a moment on the lips, a lifetime on the hips.[/color]\n[color=#ff5900]SB: Ok fuck right off[/color]\n[color=#ff5900]SB: Im gonna go pop the goods open now[/color]\n[color=#ff5900]SB: And if you mailed me an explosive and I die I WILL haunt you[/color]\n[color=#ff5900]SB: Forever[/color]\n[color=#2eb8ae]PA: what? oh no no nooo![/color]\n[color=#2eb8ae]PA: abby you cant open it! its not even christmas yet![/color]\n[color=#ff5900]SB: Oh my god who cares![/color]\n[color=#ff5900]SB: Christians totally just picked that date so the Pagans would stop holding their much cooler and much more badass Saturnalia anyhow![/color]\n[color=#2eb8ae]PA: i can basically hear you breathing through your mouth as you type that.[/color]\n[color=#2eb8ae]PA: okay, well, do what you must. but i AM giving you the silent treatment afterwards.[/color]\n[color=#ff5900]SB: Lol yeah right[/color]\n[color=#ff5900]SB: brb[/color]\n\n[/spoiler]",
+			"n":[
+				30
+			]
+		},
+		{
+			"d":1671821542888,
+			"c":"Abby: Play FREEVIDEOGAMES.^CAKE",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/clicky.gif[/img]\n\nWho doesn't love free video games? You immediately sink your blade deep into the executable's gut, disemboweling it - if its bowels were FREE VIDEO GAMES.",
+			"n":[
+				31
+			]
+		},
+		{
+			"d":1671821542888,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/AHHH.gif[/img]\n\nHA! GOTTEM.\n\nC'mon, you kinda walked right into this one.",
+			"n":[
+				32
+			]
+		},
+		{
+			"d":1671821542888,
+			"c":"Abby: Read Squiddles lost episode.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/pasta.gif[/img]\n\nYou open one of your many attempts at cooking up INTERNET CREEPYPASTRIES. You are very, very proud of your creations.\n\n[spoiler open=\"Show Creepypastry\" close=\"Hide Creepypastry\"]\n\n[color=#ff5900]\nI never should have stayed up that night......\n\nWhen I was younger, way, WAY younger, I used to love this show. The Squiddles\n\nUsed to.\n\nI was watching what I presumed to be another rerun, late at the Witching Hour. But something was weird - there was no music. The Squiddles seemed unhappy. That was odd to me. What could upset these creatures of pure, unadulterated love and joy? Why did it feel as though they were looking directly at me with their eyes, black as the taint of a syphilitic whore?\n\nSlowly, a title card faded onto the screen. \"THE SQUIDDLES GO TO HELL\"\n\nThe episode started out normal enough, with Mariana Max and Co. up to their usual. But then, all of a sudden, things took a turn that made my toes curl in outrage. The Squiddles stumbled upon a crevice at the bottom of the ocean and, without hesitation, decided to jump right in. Woe! If only they knew they were never to return. Where was Seagull Sammy's sage wisdom now?\n\nAs they descended into the swirling abyss, the animation was replaced with an unnerving, low budget stop motion style. But the worst part was when they finally reached the bottom of the hole and met Satan himself (voiced by Gilbert Gottfried.) Satan was this huge, muscular demon with horns and a pitchfork, and he was PISSED. He started yelling at the Squiddles and telling them that they weren't supposed to be there, that they had messed with forces beyond their understanding\n\nThe Squiddles tried to apologize and beg for mercy, but it was too late. Satan grabbed them and threw them into a pit of fire, where they were doomed to suffer for all eternity, poked with hot sticks by demons\n\nThe episode ended with a creepy, distorted version of the Squiddles theme song playing over images of the Squiddles screaming and being tortured in hell\n\nI still don't know where this lost episode came from, or who allowed it to be made, but one thing is for sure: I am NEVER going to be the same. The Squiddles may have been cute, but they definitely didn't belong in Hell\n[/color]\n\n[/spoiler]",
+			"n":[
+				33
+			]
+		},
+		{
+			"d":1671821542888,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/no%20more%20internet.png[/img]\n\nAlright, that's enough computer for now! You should probably head to the cellar, you really are excited to stick it up to Jesus Christ.\n\nYou're going to have to prepare though. You'll likely have the RAT PUZZLE to deal with down there.",
+			"n":[
+				34
+			]
+		},
+		{
+			"d":1672262168512,
+			"c":"Abby: Take the pink skeleton in a jar with you as a good luck charm.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/captcha.gif[/img]\n\nYou attempt picking up your DAIPHONIZED CAT and shoving it right down your SYLLADEX, and are delighted to find that the modus gracefully accepts your donation. You guess it's child friendly enough if you don't know what the fuck you are looking at.",
+			"n":[
+				35
+			]
+		},
+		{
+			"d":1672262168512,
+			"c":"Abby: check your pet.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/flappy.gif[/img]\n\nNot being in a particular hurry to deal with the RAT PUZZLE, you decide to hang out with DESDEMONA, your pet Madagascar Hissing Cockroach. Hi little lady!\n\nRoaches are simple creatures. They neither want, need, nor understand affection.\n\nDespite that, you have a habit of getting very affectionate with Dessie.",
+			"n":[
+				36
+			]
+		},
+		{
+			"d":1672262168512,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/mwah.gif[/img]\n\nVery, VERY affectionate.",
+			"n":[
+				37
+			]
+		},
+		{
+			"d":1672262168512,
+			"c":"Abby: Comical journey to the basement Start! Exit room.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/puuuuull.gif[/img]\n\nAlright, enough fucking around. You pull open the TRAP DOOR, revealing a secret STEP LADDER. You never knew your real LADDER.\n\nWhen you heard that your new house was to have a creepy moist dinky basement under it, you begged and begged your POP for the room right above it. It called to you.",
+			"n":[
+				38
+			]
+		},
+		{
+			"d":1672262168512,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/rats%20rats.gif[/img]\n\nYou descend into your PANIC ROOM. You keep it decorated with all the various things which bring you COMFORT when you have a need to curl up in a dark corner and suck on your thumb - which is never. But it doesn't hurt to be prepared in case your house is suddenly overrun by little monsters. GREMLINS, perhaps, maybe even ELVES. But what are the odds of [i]that?[/i]\n\nLooks like the RAT PUZZLE is active.",
+			"n":[
+				39
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"Abby: Give the huge rat a big hug.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/awaw.png[/img]\n\nHug? HUG? HUG!!??! Your house is CRAWLING with rats the size of toddlers nabbing your precious Christmas snacks, and you want to give them HUGS? You would sooner shove a hot fireplace poker up your asshole and churn it around until your guts are but a fine gorey porridge. You are overflowing with ALL-CONSUMING RAGE and lust for solving the RAT PUZZLE once and for all.",
+			"n":[
+				40
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/leap.gif[/img]\n\nEvil was born when the ancient Serpent-Deceiver tricked Eve to partake in the fruit of the forbidden tree. God, in his endless fury, took the side of the snake, and kicked Adam and Eve out of his garden.\n\nYou don't know why you get so furious when vermin take away your snacks. But it's not like they need your pity. God has always taken the side of vermin.\n\nBecause God too was born a SKUNK.",
+			"n":[
+				41
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"Abby: Wield the scythe. Be the reaper.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/hjhjgh.gif[/img]\n\nYour SCYTHE is your favored weapon. It may not be the most practical, but you always valued style over use when it came down to these things. \n\nUnfortunately, you seem to be suffering some kind of debuff for blaspheming THE ALMIGHTY just a panel ago, and your Sylladex regurgitates your non PG-13 armaments back out.\n\nDamn it all to shit.",
+			"n":[
+				42
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"Abby: Make like Hiccup and TAME THAT BEAST!",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/pouncey.gif[/img]\n\nHOW DID YOU KNOW ABOUT THE SECRET DRAGON OBSESSION oh wait right the posters.\n\nUnfortunately, the RAT PUZZLE refuses to comply with your beast tamer fantasy, much as you would have loved to render it TOOTHLESS.\n\nEasy buddy.\n\nEeeeeeeasy.",
+			"n":[
+				43
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/gfhfgh.gif[/img]\n\nYOU SAID EASY!!!!!!!!\n",
+			"n":[
+				44
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ratbscond.gif[/img]\n\nHumiliating you thoroughly, the rat makes its abscond, leaving you to reflect on your soul-shattering defeat.\n\nYou really hope you haven't caught the bubonic plague again.",
+			"n":[
+				45
+			]
+		},
+		{
+			"d":1672436995911,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/echeladder.gif[/img]\n\nYOU HAVE SOLVED THE RAT PUZZLE!!!!!\n\nYou scale the first rung on your ECHELADDER, attaining the humble rank of \"RUG PLAGUERAT\" and earning your first pair of HORNS on the MASQUE OF COMBOOTENCE. You are also rewarded with more of that scrip you don't know where to use.\n\nYou struggle to be excited for any of this.",
+			"n":[
+				46
+			]
+		},
+		{
+			"d":1672497350925,
+			"c":"Abby: Pull down the lightbulb.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/vfjshgd.gif[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/let%20there%20be%20light.png[/img]\n\nLet there be light.",
+			"n":[
+				47
+			]
+		},
+		{
+			"d":1672497350925,
+			"c":"Abby: Fondly regard your lovely scythe.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/cheesed.png[/img]\n\nWonderful weapon, that scythe. Firm, wooden grip. Deadly blade, speckled with tasteful bits of rust.\n\nWOULD HAVE LOVED TO WIELD IT. \n\nAnd you'd have been so badass too, as a wisecracking rat slaying blademaster. This is unfair. Life is unfair.\n\nYou really should get POP to ease the parental controls on your Sylladex sometime. You are thirteen years old, dammit! A woman grown!",
+			"n":[
+				48
+			]
+		},
+		{
+			"d":1672497353836,
+			"c":"Abby: Investigate book.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/dragon%20book.png[/img]\n\nWhy, this is your DRAGONOLOGY book! It isn't a proper childhood if you haven't owned a single issue of OLOGIES.\n\nMan. Dragons are so cool.\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/fsfsfs.png[/img]\n\nYou decide to hold onto DRAGONOLOGY for now, for comfort. Getting your shit pushed in by the rat has left some wounds in need of licking.",
+			"n":[
+				49
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Practise your sword eating skills on the scythe.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/NOOOO.gif[/img]\n\nYou don't HAVE any sword eating skills, lunkhead!",
+			"n":[
+				50
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Check out the package.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/shooka%20shooka.png[/img]\n\nOh thank god, you got to it before the rat could tear it open.\n\nNow that you squint a little, the fancy little tag seems to read \"for SB.\" You make a mental note to tell PA to develop normal people handwriting.",
+			"n":[
+				51
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Dig in!",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/sburt.png[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/letterrrr.png[/img]\n\n[spoiler open=\"Show Letterlog\" close=\"Hide Letterlog\"]\n\n[color=#2eb8ae]to my darling abbycakes;\n\nBOO! did i get you? :D\n\nit is the most beautiful season, the season where everyone showers me in gifts! but oh, i would so loathe to not give back to my sweetest sugarplum abbyboo once in a while <3. \n\nthank you for always being *ever* so fabulous, sugar. not everyone gets to call themselves my bestie, you know? youd best cherish the privilege!\n\nive never heard of the game ive sent you before. and trust me, if it was anything thats made the rounds in the blogosphere, id HAVE known of it. but supposedly it has some roleplaying elements? just imagine, me as a warrior princess riding upon a shiny chariot, and you, my vile, evil witch of a nemesis! :) is this how video games go? (dont bother correcting me.)\n\nP.S. if you try the game and it is boring, i hope the chocolate chip cookies make up for it. shine on, abbycakes. love you!\n\nforever yours, \n\nPA \n\n[/color]\n\n[/spoiler]\n\nTHIS IS SO EPIC!!!! Christmas really has come early this season. You don't understand what's so spooky to PA about these housey looking envelopes, but whatever, you do enjoy obscure shovelware.\n\nAlso, the hell's a Game Bro?",
+			"n":[
+				52
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Captchalogue loot.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/FFS.gif[/img]\n\nOkay, this is getting ridiculous. It seems like due to the HOUSEY GAME'S apparent lack of ESRB RATING, your modus has chosen to err on the side of caution, now allowing you to pick it at all.\n\nThis sucks! Plans cancelled, you guess.",
+			"n":[
+				53
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Update PA on the situation.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/bzzzt.gif[/img]\n\n[spoiler open=\"Show Pesterlog\" close=\"Hide Pesterlog\"]\n\n[color=#ff5900]SB: Siiiiiiiiiiiigh\nSB: ...\nSB: SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIGH\nSB: Bitch are you reading my sighs[/color]\n[color=#2eb8ae]PA: i told you, i am not speaking to you right now![/color]\n[color=#ff5900]SB: So melodramatic today!\nSB: Whatever. Im like, so over you. Friendship cancelled\nSB: ...\nSB: Um\nSB: Sorry I dont mean that\nSB: PA???\nSB: ..........\nSB: Sorry I opened your present early too\nSB: I guess\nSB: Sorrysorryosrry ;_;[/color]\n[color=#2eb8ae]PA: pffff. NOW whos being a drama queen?\nPA: worry not, darling, i care little for any of that anyway.\nPA: i just wanted you to feel bad for being a jerk. ;)[/color]\n[color=#ff5900]SB: Ughhh\nSB: You are pure effin evil!!! Soul rotten and writhing with maggots!\nSB: I can respect that. Know what? Friendship restored[/color]\n[color=#2eb8ae]PA: hehe.\nPA: so how do you like them? the presents?[/color]\n[color=#ff5900]SB: Not that Id know\nSB: I couldnt even pick up the main dish!\nSB: Life is a churning vortex of suffering and disappointment. Bleh[/color]\n[color=#2eb8ae]PA: ugh. i ought to have mailed you a new modus. :/[/color]\n[color=#ff5900]SB: Word\nSB: Whateverrrr, the packaging had too many colors on it[/color]\n[color=#2eb8ae]PA: brown and green? o_o\nPA: say... have you tried loosening up the parental restrictions on your modus yourself?[/color]\n[color=#ff5900]SB: ??? You can do that?[/color]\n[color=#2eb8ae]PA: maybe! i reckon your pop fidgets with that thing every time you pass a major age-based milestone.\nPA: try checking the back of your sylladex for any settings, love. :)[/color]\n\n[/spoiler]",
+			"n":[
+				54
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"Abby: Examine modus.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/oh%20god%20oh%20fuck.gif[/img]\n\nFigures there'd be PROTECTIVE MEASURES. Jesus Shit you feel like you're defusing a bomb.",
+			"n":[
+				55
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/hmm.png[/img]\n\n...You guess there is no avoiding the filling of your GUARDIAN STRIFE QUOTA now. Your old man has always been quite the handful. His only weakness you know of is SUGAR.",
+			"n":[
+				56
+			]
+		},
+		{
+			"d":1672605072826,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/nom.png[/img]\n\nBut where in the hell would you get THAT?",
+			"n":[
+				57
+			]
+		},
+		{
+			"d":1674075046696,
+			"c":"Abby: Ignore the cookie in your hands. Consider your secret stash.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ermm%20awkward.gif[/img]\n\nBut you wouldn't dare! Your SECRET STASH is your only source of SWEET SUGARY AMBROSIA whenever your POP restricts your diet! What the hell are you supposed to eat in here if you use it on him? VEGETABLES? You think not.",
+			"n":[
+				58
+			]
+		},
+		{
+			"d":1674075046696,
+			"c":"Abby: Carry SBURB DISKS with your HANDS.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/MUAHAHAHAHA.gif[/img]\n\nH... Hands? Hands?? What hands?\n\nWhy, sir, is it one of THESE hands you speak of?!\n\nBUAAAHAHAHAHAHAHAHAHAHAHA!!!!!!\n\nHAHAHA.\n\nHAHA.\n\nHA.\n\nYeah, no. What're you gonna do next? Send mail by carrier pigeon? ",
+			"n":[
+				59
+			]
+		},
+		{
+			"d":1674075046696,
+			"c":"Abby: Fill cookies with FAKE BLOOD.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/ewwwwwww.gif[/img]\n\nYou cram all your remaining BLOOD CAPSULES in your COOKIE BAG, then slam your MIMIC MIMIC over the mixture until you are left with naught but this unholy, red-brown concoction. Consuming this slurry would make you gain 50 pounds in an instant.\n\nYou wish there was an easier way of accessing those video games. But alas.",
+			"n":[
+				60
+			]
+		},
+		{
+			"d":1674075046696,
+			"c":"Abby: Exit room.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/taptaptaptaptaptaptaptap.gif[/img]\n\n[spoiler open=\"Show Pesterlog\" close=\"Hide Pesterlog\"]\n\n[color=#ff5900]SB: My sylladex sucks friggin ass\nSB: Its like trying to give directions to a lobotomite[/color]\n[color=#2eb8ae]PA: no dice? :([/color]\n[color=#ff5900]SB: Nadda\nSB: Urgh Im not 12 anymore!!!! Ive seen worse shit in Silence of the Lambs than anything a stupid video game could ever have in it[/color]\n[color=#2eb8ae]PA: really? silence of the lambs is your arbiter of spookiness? ;P[/color]\n[color=#ff5900]SB: EXCUSE ME??\nSB: Jodie Foster?? Ted Levine? ANTHONY HOPKINS??? [/color]\n[color=#2eb8ae]PA: superb actors! didnt raise a single of my hairs though.~\nPA: come now abby, gore makes me queasy and yet i liked the movie! its just not very scary.\nPA: (read: at all.)[/color]\n[color=#ff5900]SB: Whatever!!! That just speaks to its quality!!\nSB: Forget it Ill go kill my pop now\nSB: I guess[/color]\n[color=#2eb8ae]PA: lol.\nPA: toodle-pip, stabigail! may your blade be sharp and very deadly! <3\nPA: dont go chewing off anyones faces either, heehee. [/color]\n[color=#ff5900]SB: You laugh *Now...*\nSB: BUT ARE YOU NEXT????????????[/color]\n\n-- [color=#ff5900]screamingBanshee[/color] [[color=#ff5900]SB[/color]] ceased pestering [color=#2eb8ae]pedigreeAlicorns[/color] [[color=#2eb8ae]PA[/color]] --\n\n[/spoiler]",
+			"n":[
+				61
+			]
+		},
+		{
+			"d":1674075046696,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/woh.gif[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/helo%202.png[/img]\n\nYou exit your bedroom. As usual, everything past the TV is basically monopolized by your POP's DENTAL ARTEFACTS. You sometimes wonder if a man can like his job a little too much. You also sometimes wonder if the old man's appreciation for everything TEETH-RELATED is strictly professional.\n\nYou're not scared though. Really.",
+			"n":[
+				62
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Examine the nearby pumpkin.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/examine%20gourd.png[/img]\n\nThis is your pride and joy! You like having at least one jack o' lantern around for sentimental purposes. It's been a drain on your allowance though, and you oft daydream about yoinking fresh produce around the neighborhood, spawning an urban legend about disappearing gourds in the process.\n\n[i]Fear her, she who comes for gourds in the night.[/i]\n\nYou promptly decide to stop having this train of thoughts because it is very stupid.",
+			"n":[
+				63
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Check height!",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/grown.gif[/img]\n\nYou captchalogue the troublesome gourd to check your height. Surely enough, you've grown! This must be directly tied to you maturing from the decision to confront your Pop about your Sylladex. You're so, so proud of yourself.\n\nNext stop, 6'5\"!",
+			"n":[
+				64
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Examine dentally challenged pig creature.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/palpitations.gif[/img]\n\nAh, THIS bullshit again.\n\nPop loves littering your surroundings with these DENTAL ABOMINATIONS. They're supposed to teach you how to properly brush your teeth - SOMEHOW. But all they've managed to give you so far are Nightmare Fuel Palpitations.",
+			"n":[
+				65
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Don't. Blink.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/staring.png[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/horrible.png[/img]\n\nGod, just look at that soulless gaze. You feel like if you so much as blink it's going to FUCKING GET YOU.\n\nYou don't understand how Pop's TOOTH PARAPHERNALIA manages to give you a turn of all things. You kind of respect him in that regard.",
+			"n":[
+				66
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Hug the alarmingly toothed dog-thing.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/no%20no%20no%20no%20no.png[/img]\n\nBut of course, there is nothing to fear. It is just a plushie! Granted, something PRECIOUS was lost inside you when you first laid your eyes upon it, but a toy's a toy.\n\nThere is nothing like good ol' EXPOSURE THERAPY when it comes to spooky things. C'mere you nasty pig dog whatever you are.",
+			"n":[
+				67
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/giving%20me%20conniptions.gif[/img]\n\nTHIS... THIS ISN'T WORKING!!!!!!! Your NIGHTMARE FUEL GAUGE is about to blow!!!!",
+			"n":[
+				68
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/RUN.png[/img]\n\nNo matter how many times you dispose of these things - be it river, flame, immurement, demonic sacrifice, fed to hungry bees, they always, ALWAYS return.\n\nYou decide to stay out of the pig dog thing's way from now on.",
+			"n":[
+				69
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Inspect crack in the wall.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/eyeroll.png[/img]\n\nAnd speaking of immurement: This is where you attempted imprisoning the creature before, while Pop was away to whatever secret conferences the world's Dentist Illuminati holds. You just told him you got sad watching a movie and punched the wall really hard. He gave you a funny look, then hung up a MOTIVATIONAL SKELETON POSTER a week after.\n\nHe's such a dweeb. He doesn't understand your interests at all.",
+			"n":[
+				70
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Examine mounted fish.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/catchin%20fish.gif[/img]\n\nYou punch the wall really hard to get a closer look at the funny fish.",
+			"n":[
+				71
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"[S] ===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/le%20fishe.gif[/img]\n\nAhhh, finally, something scary in a familiar way. You feel all your worries sloughing off your shoulders.",
+			"n":[
+				72
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Check if anything good is on the TV.",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/Illustration7%202.png[/img]\n\n[img]https://file.garden/YzAOR9X23DJlLPFG/clique.gif[/img]\n\nSeems like Click (2006) is on right now. Not the best the psychological horror genre has to offer.",
+			"n":[
+				73
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/SNOOOOOORE.gif[/img]\n\nSNOOOOOOOOOOOOOOOOOOOOOOOORE. Ugh, you ought to just grab something from your VHS shelf if you intend to veg out for the rest of the day!",
+			"n":[
+				74
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"Abby: Do you have games on your phone?",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/fone.png[/img]",
+			"n":[
+				75
+			]
+		},
+		{
+			"d":1675162495094,
+			"c":"===>",
+			"b":"[img]https://file.garden/YzAOR9X23DJlLPFG/who%20was%20phone.gif[/img]\n\nYou aren't much of a gamer, but you do like to play StabHappy!™ sometimes. You've been trying to pull for Leatherface and Leprechaun from the hit movie Leprechaun, but unfortunately, your BLOOD BANK is currently empty, depriving you of any pulls until tomorrow at the earliest. You're also all out of MERCY KILLS.\n\nMUST. RESIST. THE ALLURE. OF MICROTRANSACTIONS.\n\n[url=https://discord.com/invite/JnBVThMEMY][img]https://file.garden/YzAOR9X23DJlLPFG/gourd%202.gif[/img][/url] [img]https://file.garden/YzAOR9X23DJlLPFG/terror.gif[/img]",
+			"n":[
+				76
+			]
+		}
+	]
+}
