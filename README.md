@@ -15,9 +15,9 @@ Each folder contains all the files necessary to view your adventure when hosted.
   "p": [ ... ]
 }
 ```
-- **n**ame is the name of your adventure
-- ic**o**n is the icon of your advnture, this will be it's favicon in the viewer
-- **p** pages is an array of page objects for each page of your adventure
+- _**n**ame_ is the name of your adventure
+- _ic**o**n_ is the icon of your advnture, this will be it's favicon in the viewer
+- _**p**ages_ is an array of page objects for each page of your adventure
 
 Page objects have these values:
 ```json
@@ -28,7 +28,7 @@ Page objects have these values:
   "n": [ 2 ]
 }
 ```
-- **d**ate is the date the page was published in as a unix timestamp
-- **c**ommand is the page's command or title, using html and/or mspfa bbcode
-- **b**ody is the content of the page, using html and/or mspfa bbcode
-- **n**ext is an array of page indexes pointing to the next page (Page indexes start at 1)
+- _**d**ate_ is the date the page was published in as a unix timestamp
+- _**c**ommand_ is the page's command or title, using html and/or mspfa bbcode
+- _**b**ody_ is the content of the page, using html and/or mspfa bbcode
+- _**n**ext_ is an array of page indexes pointing to the next page (Page indexes start at 1)
