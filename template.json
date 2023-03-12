@@ -1,9 +1,7 @@
 {
   "n": "Adventure name",
   "o": "Link to adventure Icon",
-
   "p": [
-    
     {
 			"d": 1671518387574,
 			"c": "Page 1 title",
@@ -22,6 +20,5 @@
 			"b": "Page 3 content",
 			"n": [ 4 ]
 		}
-    
   ]
 }
