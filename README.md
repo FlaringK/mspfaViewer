@@ -16,7 +16,7 @@ Each folder contains all the files necessary to view your adventure when hosted.
 }
 ```
 - _**n**ame_ is the name of your adventure
-- _ic**o**n_ is the icon of your advnture, this will be it's favicon in the viewer
+- _ic**o**n_ is the icon of your adventure, this will be it's favicon in the viewer
 - _**p**ages_ is an array of page objects for each page of your adventure
 
 Page objects have these values:
