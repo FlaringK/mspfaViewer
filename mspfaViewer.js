@@ -280,7 +280,7 @@ const preloadImages = pageIndex => {
   if (adventureData.p[pageIndex - 1]) {
     const body = adventureData.p[pageIndex - 1].b
     const imgRegex = body.match(/\[img\](?<link>[^"]*?)\[\/img\]|\[img=(\d*?)x(\d*?)\]([^"]*?)\[\/img\]/gi)
-    document.getElementById("prelaod").append(MSPFA.parseBBCode(imgRegex.join(" ")))
+    if (imgRegex) document.getElementById("prelaod").append(MSPFA.parseBBCode(imgRegex.join(" ")))
   }
 }
 
