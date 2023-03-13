@@ -104,3 +104,18 @@ body {
   font-family: Verdana,Arial,Helvetica,sans-serif;
   padding: 0 25px 10px;
 }
+
+.spoiler {
+	border: 1px dashed gray;
+	padding: 1px;
+}
+
+.spoiler>div:last-child {
+	margin: 12px 5%;
+	padding: 3px;
+	text-align: left;
+}
+
+.spoiler.closed>div:last-child {
+	display: none;
+}
