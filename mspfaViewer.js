@@ -154,7 +154,7 @@ let adventureData
 
 // Get JSON
 window.addEventListener('DOMContentLoaded', (event) => {
-  fetch("./adventure.json").then(response => response.json()).then(json => loadAdventure(json));
+  fetch(jsonURL ? jsonURL : "./adventure.json").then(response => response.json()).then(json => loadAdventure(json));
 });
 
 const clickLink = (event, link) => {
