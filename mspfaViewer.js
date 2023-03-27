@@ -232,6 +232,7 @@ const loadPage = () => {
   loadIntoElement("command", MSPFA.parseBBCode(pageData.c))
   loadIntoElement("content", MSPFA.parseBBCode(pageData.b))
   loadIntoElement("links", genPageLinks(adventureData.p, pageData.n))
+  if ("theme" in pageData) document.body.className = pageData.theme + " mspfa p" + p
 
   // Gen go back number
   var backid = 0;
