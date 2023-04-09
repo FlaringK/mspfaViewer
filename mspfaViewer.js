@@ -188,17 +188,21 @@ const genPageLinks = (pages, linkIndexs) => {
   const span = document.createElement("span")
   linkIndexs.forEach(pageIndex => {
     if (pages[pageIndex - 1]) {
-      preloadImages(pageIndex)
+      if (pages[pageIndex - 1].d < new Date().getTime()) {
 
-      const a = document.createElement("a")
-      a.href = `?p=${pageIndex}`
-      a.append(MSPFA.parseBBCode(pages[pageIndex - 1].c))
-      a.addEventListener("click", evt => clickLink(evt, a.href))
-  
-      const div = document.createElement("div")
-  
-      div.append(a)
-      span.append(div)
+        preloadImages(pageIndex)
+
+        const a = document.createElement("a")
+        a.href = `?p=${pageIndex}`
+        a.append(MSPFA.parseBBCode(pages[pageIndex - 1].c))
+        a.addEventListener("click", evt => clickLink(evt, a.href))
+    
+        const div = document.createElement("div")
+    
+        div.append(a)
+        span.append(div)
+
+      }
     }
   })
   return span
@@ -219,7 +223,7 @@ const loadPage = () => {
     return
   }
 
-  // If page number too large 
+  // If page number too large
   if (p > adventureData.p.length) {
     loadIntoElement("command", MSPFA.parseBBCode("No page found"))
     loadIntoElement("content", MSPFA.parseBBCode("This page does not exist"))
@@ -227,8 +231,17 @@ const loadPage = () => {
     return
   }
 
-  // Load given page
   const pageData = adventureData.p[p - 1]
+
+  // if unix date too high
+  if (pageData.d > new Date().getTime()) {
+    loadIntoElement("command", MSPFA.parseBBCode("No page found"))
+    loadIntoElement("content", MSPFA.parseBBCode("This page is not available yet"))
+    loadIntoElement("links", MSPFA.parseBBCode(""))
+    return
+  }
+
+  // Load given page
   loadIntoElement("command", MSPFA.parseBBCode(pageData.c))
   loadIntoElement("content", MSPFA.parseBBCode(pageData.b))
   loadIntoElement("links", genPageLinks(adventureData.p, pageData.n))
@@ -253,7 +266,7 @@ const loadPage = () => {
 const loadLog = () => {
   // Generate Log link list
   let ul = document.createElement("ul")
-  adventureData.p.forEach((pageData, index) => {
+  adventureData.p.filter(p => p.d < new Date().getTime()).forEach((pageData, index) => {
     const date = new Date(pageData.d).toLocaleDateString("en-US")
 
     const a = document.createElement("a")
