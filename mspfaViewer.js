@@ -209,6 +209,9 @@ const genPageLinks = (pages, linkIndexs) => {
 }
 
 const loadPage = () => {
+  // Scroll to top
+  window.scrollTo(0, 0)
+
   const p = getUrlPage()
 
   document.body.className = "mspfa p" + p
