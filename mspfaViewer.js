@@ -256,7 +256,7 @@ const loadPage = () => {
     if (e.n.includes(parseInt(p))) backid = i + 1
   })
   if (backid) {
-    document.getElementById("gobackbar").style.display = "inline"
+    if (document.getElementById("gobackbar")) document.getElementById("gobackbar").style.display = "inline"
     document.getElementById("goback").style.display = "inline"
     document.getElementById("goback").href = "?p=" + backid
     preloadImages(backid)
