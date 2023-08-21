@@ -221,20 +221,26 @@ const loadPage = () => {
   document.getElementById("prelaod").innerHTML = ""
   
   // If Log, load log p
-  if (p == "log" || isNaN(p)) {
+  if (p == "log") {
     loadLog()
     return
   }
 
   // If page number too large
-  if (p > adventureData.p.length) {
+  if (!isNaN(p) && p > adventureData.p.length) {
     loadIntoElement("command", MSPFA.parseBBCode("No page found"))
     loadIntoElement("content", MSPFA.parseBBCode("This page does not exist"))
     loadIntoElement("links", MSPFA.parseBBCode(""))
     return
   }
 
-  const pageData = adventureData.p[p - 1]
+  let pageData
+
+  if (isNaN(p)) {
+    pageData = adventureData.extra[p] ?? adventureData.p[0]
+  } else {
+    pageData = adventureData.p[p - 1]
+  }
 
   // if unix date too high
   if (pageData.d > new Date().getTime()) {
