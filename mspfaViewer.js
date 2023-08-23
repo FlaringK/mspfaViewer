@@ -237,7 +237,7 @@ const loadPage = () => {
   let pageData
 
   if (isNaN(p)) {
-    pageData = adventureData.extra[p] ?? adventureData.p[0]
+    pageData = adventureData.extra ? adventureData.extra[p] ?? adventureData.p[0] : adventureData.p[0]
   } else {
     pageData = adventureData.p[p - 1]
   }
