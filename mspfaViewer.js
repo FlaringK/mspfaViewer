@@ -167,7 +167,7 @@ const clickLink = (event, link) => {
 const getUrlPage = () => {
   const urlParams = new URLSearchParams(window.location.search);
   const p = urlParams.get("p")
-  return p ? p : "1"
+  return p ? p : "home"
 }
 
 const loadIntoElement = (id, element) => {
